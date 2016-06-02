@@ -1,0 +1,11 @@
+"Component","Package","Value","Manuf","Manuf Part No","Distrib","Distrib Part No","Ref Name","Qty"
+"0.25Wresistor","DIP","","","","","","R13 R14 R15 R16 R12 R18 R20 R21","8"
+"1N914","MISC","","","","","","LM4041CILPR","1"
+"B3F-1050","DIP","","","","","","SW1 SW2 SW4","3"
+"BoosterPack","QIP","","","","","","U1","1"
+"Capacitor","C","","","","","","C2 C3 C4 C5 C6","5"
+"Speaker","DIP","","","","","","J2","1"
+"TLV5616CP","P8","","","TLV5616CP","","","U2","1"
+"TPA731","SM","","","","","","U4","1"
+"","","","","","","","","21"
+PCB Artist Bill of Materials is provided for reference only and must be verified by the user.
